@@ -1,0 +1,55 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #fff8f0;
+  color: #222;
+  text-align: center;
+}
+
+header {
+  padding: 70px 20px;
+  background: #222;
+  color: white;
+}
+
+header h1 {
+  font-size: 40px;
+}
+
+section {
+  padding: 35px 20px;
+  max-width: 700px;
+  margin: auto;
+}
+
+h2 {
+  font-size: 28px;
+}
+
+.food {
+  background: white;
+  margin: 15px 0;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 3px 10px #ddd;
+}
+
+.button {
+  display: inline-block;
+  padding: 12px 20px;
+  margin: 10px;
+  background: #e85d04;
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+}
+
+footer {
+  padding: 25px;
+  background: #222;
+  color: white;
+}
